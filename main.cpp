@@ -5,7 +5,7 @@
 #include <stdlib.h>
 #include <windows.h>
 #include <math.h>
-
+ 
 // variable for rotation of teapot 
  
 float zRotated = 0.0;
