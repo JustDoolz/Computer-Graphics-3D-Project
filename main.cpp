@@ -250,7 +250,8 @@ int main (int argc, char **argv)
     glOrtho(-100.0,100,-100.0,100,-100.0,100);
     glClearColor(1,1,1,1);
     texture(); // Lighting and textures
-
+ 
+    
 
     glutMainLoop();
 }
