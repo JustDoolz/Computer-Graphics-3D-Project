@@ -27,7 +27,7 @@ void cone(){
     glPopMatrix();
 }
 
-// teapot function
+// teapot function 
 
 void drawteapot(){
 
