@@ -13,7 +13,7 @@ float zRotated = 0.0;
 // variables for mouse and keyboard
 
 float cx, cz, z;
- 
+  
 // cone function
 
 void cone(){
