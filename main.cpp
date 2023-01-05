@@ -7,7 +7,7 @@
 #include <math.h>
 
 // variable for rotation of teapot
-
+ 
 float zRotated = 0.0;
 
 // variables for mouse and keyboard
